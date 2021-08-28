@@ -5,3 +5,7 @@
 ## 환경
 
 쿠팡에서 약 15만원 주고 산 라즈베리 파이 4 스타터 키트
+
+## ToC
+
+- [Getting Started](./getting-started/README.md)
